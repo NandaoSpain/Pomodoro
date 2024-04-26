@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import { Home } from './pages/Home'
+import { Home } from './pages/Home/index.tsx'
 import { History } from './pages/History'
 import { DefaltLayout } from './layouts/DefaultLauout.tsx'
 
