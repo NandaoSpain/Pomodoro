@@ -1,6 +1,7 @@
 # Temporizador Pomodoro
 
 ![Temporizador Pomodoro](https://github.com/NandaoSpain/Pomodoro/blob/main/pomodoro.png)
+![Temporizador Pomodoro](https://github.com/NandaoSpain/Pomodoro/blob/main/pomodoro2.png)
 
 Un Temporizador Pomodoro simple implementado en React + TypeScript.
 
