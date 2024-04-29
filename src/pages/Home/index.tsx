@@ -122,7 +122,3 @@ export function Home() {
     </HomeContainer>
   )
 }
-function setAmountSecondsPassed(arg0: number) {
-  throw new Error('Function not implemented.')
-}
-
