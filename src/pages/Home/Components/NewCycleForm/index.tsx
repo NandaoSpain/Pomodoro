@@ -19,7 +19,7 @@ export function NewCycleForm() {
       />
 
       <datalist id="task-suggestions">
-        <option value="15 minutes" />
+        <option value="25 minutes" />
         <option value="30 minutes" />
         <option value="45 minutes" />
         <option value="60 minutes" />
